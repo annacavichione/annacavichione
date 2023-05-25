@@ -1,4 +1,7 @@
-### Hi there 👋
+Meu nome é Anna Júlia Cavichione,
+estou estudando na Alura,
+estou me desenvolvendo na linguagem JavaScript,
+utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
 **annacavichione/annacavichione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
